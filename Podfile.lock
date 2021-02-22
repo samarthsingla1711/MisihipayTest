@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.4.0)
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
+  - RSBarcodes_Swift (5.1.0)
+  - SDWebImage (5.10.0):
+    - SDWebImage/Core (= 5.10.0)
+  - SDWebImage/Core (5.10.0)
+  - SwiftMessages (9.0.0):
+    - SwiftMessages/App (= 9.0.0)
+  - SwiftMessages/App (9.0.0)
+  - Validator (3.2.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - RealmSwift (~> 3.20.0)
+  - RSBarcodes_Swift (~> 5.1.0)
+  - SDWebImage
+  - SwiftMessages
+  - Validator
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Realm
+    - RealmSwift
+    - RSBarcodes_Swift
+    - SDWebImage
+    - SwiftMessages
+    - Validator
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
+  RSBarcodes_Swift: 297c5cec351cc94bd32c3459503db5a58a9b7dcc
+  SDWebImage: 9169792e9eec3e45bba2a0c02f74bf8bd922d1ee
+  SwiftMessages: 55274ca3a239062398603008ed81924cfd1fe798
+  Validator: 80a6f567220c962dfd2d9928ae98a8c1d164f6f4
+
+PODFILE CHECKSUM: 73f66f279432e0d2932282295927b4dc2d0746e7
+
+COCOAPODS: 1.10.0
